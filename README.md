@@ -2,18 +2,18 @@ The purpose of this project ​was to apply all the concepts that I learnt durin
 
 You can read more about the project here https://alejandrorvande.wixsite.com/portfolio/metal-slug
 
-Controls
+<h2>Controls</h2>
 
-Left/Right Arrow Keys: Move character
+<b>Left/Right Arrow Keys:</b> Move character
 
-Up Arrow Key: Aim upwards
+<b>Up Arrow Key:</b> Aim upwards
 
-Down Arrow Key: Crouch
+<b>Down Arrow Key:</b> Crouch
 
-X Key: Shoot
+<b>X Key:</b> Shoot
 
-C Key: Jump
+<b>C Key:</b> Jump
 
-Enter Key: Start game from menu
+<b>Enter Key:</b> Start game from menu
 
-ESC Key: Show pause menu
+<b>ESC Key:</b> Show pause menu
