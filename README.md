@@ -3,7 +3,7 @@ The purpose of this project ​was to apply all the concepts that I learnt durin
 
 You can read more about the project here -> https://alejandrorvande.wixsite.com/portfolio/metal-slug
 
-If you want to play it you can directly download from here or you can download a build from itch.io ->https://alexroca.itch.io/first-level-of-the-original-metalslug
+If you want to play it you can directly download from here or you can download a build from itch.io: https://alexroca.itch.io/first-level-of-the-original-metalslug
 
 <h2>Controls</h2>
 
